@@ -2,13 +2,12 @@
 
 A static clone page of airbnb experiences section built using React.
 
-### Screenshot
-You could just use some HTML in your Markdown:
-
-<img src="./screenshot.png" alt="drawing" width="200"/>
-
 ### Link
 - [Live Site URL](https://kiran-m-p.github.io/airbnb-experiences-clone/)
+
+### Screenshot
+
+<img src="./screenshot.png" alt="drawing" width="200"/>
 
 ### What I learned
 
