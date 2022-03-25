@@ -1,18 +1,15 @@
-import img from "../images/katie-zaferes.png";
-import star from "../images/star.png";
-
 export default function Card(props) {
   return (
     <div className="cards">
       <div className="card">
-        <img className="dp" src={img} alt={props.img} />
+        <img className="dp" src={props.src} alt="coverphoto" />
         <div className="rating">
-          <img src={star} alt="star" className="star" />
+          <img src="images/star.png" alt="star" className="star" />
           <p>
             {props.rating}{" "}
             <span className="grey">
               ({props.reviewCount})<span className="dot">·</span>
-              {props.country}
+              {props.location}
             </span>
           </p>
         </div>
