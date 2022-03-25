@@ -2,7 +2,7 @@
   "name": "airbnb-experiences-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kiran-m-p.github.io/airbnb-experiences/",
+  "homepage": "https://kiran-m-p.github.io/airbnb-experiences-clone/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
