@@ -4,9 +4,9 @@ A static clone page of airbnb experiences section built using React.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
-- [Live Site URL](https://kiran-m-p.github.io/airbnb-experiences-clone/)
+#### [Live Site URL](https://kiran-m-p.github.io/airbnb-experiences-clone/)
 
 ### What I learned
 
